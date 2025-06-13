@@ -28,7 +28,7 @@ I specialize in **C** and **C++** programming languages and have some experience
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Statistics
 
 ![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=tokyonight)
 
