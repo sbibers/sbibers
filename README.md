@@ -16,6 +16,6 @@ I specialize in **C** and **C++** programming languages and have some experience
 - **Tools:** VS Code, Git, Valgrind, WSL
 
 ## 📫 Let's Connect!
-- **Instagram:** [salam._.baybars](https://www.instagram.com/salam._.baybars/)
-- **Email:** salambaybars@gmail.com
-
+- 📧 [salambaybars@gmail.com](mailto:salambaybars@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/salam-baybars-081289352/)
+- 📸 [Instagram](https://www.instagram.com/salam._.baybars/)
