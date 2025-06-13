@@ -33,9 +33,3 @@ I specialize in **C** and **C++** programming languages and have some experience
 ![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements & Badges
-
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
