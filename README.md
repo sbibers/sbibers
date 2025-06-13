@@ -34,4 +34,7 @@ I specialize in **C** and **C++** programming languages and have some experience
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sbibers&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
