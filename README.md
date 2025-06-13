@@ -1,17 +1,17 @@
-# Hi there, I'm Salam Baybars! 👋
+# 👋 Hi there, I'm Salam Baybars!
 
-I'm a passionate tech enthusiast currently pursuing my degree in **Computer Science** at the **University of Islamic Sciences** and furthering my studies at **42 School** (42 Amman). 
+I'm a passionate **tech enthusiast** currently pursuing my degree in **Computer Science** at the **University of Islamic Sciences**, while also advancing my skills as a **Software Developer** and student at **42 School (42 Amman)**.
 
-I specialize in **C** and **C++** programming languages and have some experience with **Java**. I love exploring different programming areas, and I'm always eager to improve my skills.
+I specialize in **C** and **C++**, and have hands-on experience with **Java**. Exploring various programming domains excites me, and I’m always motivated to learn and grow.
 
 ---
 
 ## 🚀 About Me
-- 💻 Currently studying **Computer Science** at the University of Islamic Sciences.
-- 🎓 Also a software engineer student at **42 School (42 Amman)**.
-- 🛠 Proficient in **C** and **C++**, with some knowledge of **Java**.
-- 💡 Exploring **Linux systems** and mastering the art of **efficient code**.
-- 🔍 Interested in **system programming**, **parallel computing**, and **optimizing code**.
+- 💻 Pursuing **Computer Science** at the University of Islamic Sciences.
+- 🎓 Software Developer and engineering student at **42 School (42 Amman)**.
+- 🛠 Skilled in **C** & **C++**, with solid foundations in **Java**.
+- 💡 Passionate about **Linux systems** and writing **efficient, clean code**.
+- 🔍 Interested in **system programming**, **parallel computing**, and **performance optimization**.
 
 ---
 
