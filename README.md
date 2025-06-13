@@ -16,8 +16,16 @@ I specialize in **C** and **C++** programming languages and have some experience
 ---
 
 ## 🧰 Tools & Technologies
-- **Languages:** C, C++, Java (a little)
-- **Tools:** VS Code, Git, Valgrind, WSL
+### 📚 Languages:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠️ Tools:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-00AA00?style=for-the-badge&logo=gnu&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -33,8 +41,3 @@ I specialize in **C** and **C++** programming languages and have some experience
 ![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=tokyonight)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
