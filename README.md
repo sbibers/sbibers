@@ -33,3 +33,5 @@ I specialize in **C** and **C++** programming languages and have some experience
 ![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sbibers&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
