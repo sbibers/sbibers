@@ -2,8 +2,6 @@
 
 I'm a passionate **tech enthusiast** currently pursuing my degree in **Computer Science** at the **University of Islamic Sciences**, and a **Software Developer student** at **42 School (42 Amman)**.
 
-I specialize in **C** and **C++**, and have hands-on experience with **Java**. Exploring various programming domains excites me, and I’m always motivated to learn and grow.
-
 ---
 
 ## 🚀 About Me
@@ -11,35 +9,49 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 - 🎓 Software Developer student at **42 School (42 Amman)**.
 - 🛠 Skilled in **C** & **C++**, with solid foundations in **Java**.
 - 💡 Passionate about **Linux systems** and writing **efficient, clean code**.
-- 🔍 Interested in **system programming**, **parallel computing**, and **performance optimization**.
 - 🌐 Experienced in **Networking**, including **subnetting**, **TCP/IP addressing**, and configuring small-scale networks.
-- 🐳 Experienced with **Docker** for containerization and deployment.
+- 🐳 Experienced with **Docker** tools like **Dockerfile** and **Docker Compose** for containerization and deployment.
+- 🔍 Interested in **system programming**, **parallel computing**, and **performance optimization**.
 
 ---
 
-## 🧰 Tools & Technologies
-### 📚 Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🛠️ Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 📚 Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++ logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java logo" />
+</div>
 
 ---
 
-## 🔥 GitHub Statistics
+## 🛠️ Tools & Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash logo" />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg" height="42" alt="Networking logo" />
+</div>
 
-![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbibers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbibers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="168" alt="Top Languages" />
+</div>
+
+---
 
 ## 📫 How to reach me:
 - 📧 [salambaybars@gmail.com](mailto:salambaybars@gmail.com)
