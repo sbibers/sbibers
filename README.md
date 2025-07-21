@@ -27,7 +27,11 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-00AA00?style=for-the-badge&logo=gnu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
@@ -40,4 +44,3 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 ## 📫 How to reach me:
 - 📧 [salambaybars@gmail.com](mailto:salambaybars@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/salam-baybars-081289352/)
-- 📸 [Instagram](https://www.instagram.com/salam._.baybars/)
