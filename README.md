@@ -12,6 +12,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 - 🛠 Skilled in **C** & **C++**, with solid foundations in **Java**.
 - 💡 Passionate about **Linux systems** and writing **efficient, clean code**.
 - 🔍 Interested in **system programming**, **parallel computing**, and **performance optimization**.
+- 🐳 Experienced with **Docker** for containerization and deployment.
 
 ---
 
@@ -26,6 +27,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-00AA00?style=for-the-badge&logo=gnu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
