@@ -12,6 +12,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 - 🛠 Skilled in **C** & **C++**, with solid foundations in **Java**.
 - 💡 Passionate about **Linux systems** and writing **efficient, clean code**.
 - 🔍 Interested in **system programming**, **parallel computing**, and **performance optimization**.
+- 🌐 Experienced in **Networking**, including **subnetting**, **TCP/IP addressing**, and configuring small-scale networks.
 - 🐳 Experienced with **Docker** for containerization and deployment.
 
 ---
