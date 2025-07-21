@@ -30,6 +30,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**. E
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
