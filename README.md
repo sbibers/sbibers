@@ -40,7 +40,7 @@ I'm a passionate **tech enthusiast** currently pursuing my degree in **Computer 
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash logo" />
   <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Networking logo" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/internet.svg" height="42" alt="Networking logo" title="Networking" />
 </div>
 
 ---
