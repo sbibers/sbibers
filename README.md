@@ -9,7 +9,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 ## 🚀 About Me
 - 💻 Pursuing **Computer Science** at the University of Islamic Sciences.
 - 🎓 Software Developer student at **42 School (42 Amman)**.
-- 🛠 Skilled in **C**, **C++**, **Java**, **HTML**, and **CSS**.
+- 🛠 Skilled in **C**, **C++**, **Java**, **JavaScript**, **HTML**, and **CSS**.
 - 💡 Passionate about **Linux systems** and writing **efficient, clean code**.
 - 🔍 Interested in **system programming**, **parallel computing**, **networking**, and **performance optimization**.
 - 🌐 Experienced in **Networking**, including **subnetting**, **TCP/IP addressing**, configuring networks, and **Socket Programming in C/C++**.
@@ -24,6 +24,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Tools & Technologies:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
