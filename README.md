@@ -41,17 +41,9 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sbibers&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbibers&theme=radical" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=radical)
 
 ---
 
