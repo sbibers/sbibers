@@ -39,6 +39,17 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 
 ---
 
+
+## 📊 GitHub Stats
+
+![Salam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbibers&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbibers&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sbibers&theme=radical)
+
+---
+
 ## 📫 How to reach me:
 - 📧 [salambaybars@gmail.com](mailto:salambaybars@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/salam-baybars-081289352/)
