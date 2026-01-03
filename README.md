@@ -14,7 +14,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 - 🔍 Interested in **system programming**, **parallel computing**, **networking**, and **performance optimization**.
 - 🌐 Experienced in **Networking**, including **subnetting**, **TCP/IP addressing**, configuring networks, and **Socket Programming**.
 - 🐳 Experienced with **Docker** for containerization and deployment.
-- 🗄️ Knowledgeable in **Databases** (SQL, relational databases).
+- 🗄️ Experienced with **Databases** and **SQL** for data management and querying.
 
 ---
 
