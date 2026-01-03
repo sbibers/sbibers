@@ -14,6 +14,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 - 🔍 Interested in **system programming**, **parallel computing**, **networking**, and **performance optimization**.
 - 🌐 Experienced in **Networking**, including **subnetting**, **TCP/IP addressing**, configuring networks, and **Socket Programming**.
 - 🐳 Experienced with **Docker** for containerization and deployment.
+- 🗄️ Knowledgeable in **Databases** (SQL, relational databases).
 
 ---
 
@@ -36,6 +37,7 @@ I specialize in **C** and **C++**, and have hands-on experience with **Java**, *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Socket%20Programming-FF6F00?style=for-the-badge&logo=c&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
