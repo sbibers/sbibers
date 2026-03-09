@@ -49,4 +49,5 @@ I enjoy building efficient and scalable software, with a strong interest in **sy
 ## 📫 Contact
 
 📧 Email: **salambaybars@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/salam-baybars-081289352/
+💼 LinkedIn: https://www.linkedin.com/in/salam-baybars-081289352/  
+🌐 Portfolio: [sbibers.me](https://sbibers.me)
