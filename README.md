@@ -1,5 +1,5 @@
 <h1 align="center">Salam Baybars</h1>
-<h3 align="center">42 Amman Graduate | Computer Science Student | Backend & Systems Engineer</h3>
+<h3 align="center">42 Amman Graduate | Computer Science Student | Frontend & Systems Engineer</h3>
 
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=42+Amman+Graduate;Computer+Science+Student;Backend+Developer;Systems+Programming+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
