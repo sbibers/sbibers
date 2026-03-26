@@ -9,7 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -22,16 +24,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2. Run it manually first**
-After adding the file, go to your repo → **Actions** tab → find "Generate Snake" → click **Run workflow**. This creates the `output` branch with the SVGs immediately, without waiting for the daily cron.
-
-**3. Check Actions permissions**
-Go to **Settings → Actions → General → Workflow permissions** and make sure it's set to **Read and write permissions**. Without this, the workflow can't commit the generated SVG to the `output` branch.
-
-**4. Verify the output branch exists**
-After the workflow runs successfully, you should see an `output` branch in your repo containing the two SVG files. Your README references them at:
-```
-https://raw.githubusercontent.com/sbibers/sbibers/output/github-contribution-grid-snake-dark.svg
-https://raw.githubusercontent.com/sbibers/sbibers/output/github-contribution-grid-snake.svg
