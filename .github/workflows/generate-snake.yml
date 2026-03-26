@@ -2,37 +2,36 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**2. Run it manually first**
+After adding the file, go to your repo → **Actions** tab → find "Generate Snake" → click **Run workflow**. This creates the `output` branch with the SVGs immediately, without waiting for the daily cron.
+
+**3. Check Actions permissions**
+Go to **Settings → Actions → General → Workflow permissions** and make sure it's set to **Read and write permissions**. Without this, the workflow can't commit the generated SVG to the `output` branch.
+
+**4. Verify the output branch exists**
+After the workflow runs successfully, you should see an `output` branch in your repo containing the two SVG files. Your README references them at:
+```
+https://raw.githubusercontent.com/sbibers/sbibers/output/github-contribution-grid-snake-dark.svg
+https://raw.githubusercontent.com/sbibers/sbibers/output/github-contribution-grid-snake.svg
